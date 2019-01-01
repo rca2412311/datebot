@@ -38,3 +38,4 @@ In case of any errors, missing dependencies or more info, refer to [torch-rnn](h
 * Data compiled from `utils/friends.py` contains many extra headers, which were manually removed. It would be great if this task could be automated. 
 * It has been attempted to keep the dataset as clean as possible. So, relevant additions to the jokes dataset are welcome. 
 
+# datebot
