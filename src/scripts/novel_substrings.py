@@ -28,4 +28,4 @@ for L in xrange(1, 50):
     if sub in s2:
       num_found += 1
   novel_frac = (num_searched - num_found) / float(num_searched)
-  print L, novel_frac
+  print(L, novel_frac)
